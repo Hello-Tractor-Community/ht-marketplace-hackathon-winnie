@@ -1,0 +1,15 @@
+# Python related
+*.pyc
+*.pyo
+__pycache__/
+venv/
+*.db
+*.sqlite3
+
+# Django-related
+*.log
+*.pot
+*.pyc
+*.db
+*.sqlite3
+*.env
