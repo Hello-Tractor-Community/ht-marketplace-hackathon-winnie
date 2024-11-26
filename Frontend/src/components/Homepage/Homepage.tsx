@@ -3,6 +3,7 @@ import HeroSection from './HeroSection'
 import FeaturedListings from './FeaturedListings'
 import FiltersSection from './FiltersSection'
 import Footer from './Footer'
+import DealerListingsPromo from './DealerListingsPromo'
 
 export default function Homepage() {
   return (
@@ -12,6 +13,7 @@ export default function Homepage() {
         <HeroSection />
         <FeaturedListings />
         <FiltersSection />
+        <DealerListingsPromo />
       </main>
       <Footer />
     </div>
